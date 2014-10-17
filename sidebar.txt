@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jcs:home|Door43 (jcs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jcs|d43-jcs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jcs/archive/master.zip|d43-jcs.zip]]
+
+**Recent Changes**
+{{changes>ns = jcs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jcs|Ethnologue data]]
+
